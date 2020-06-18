@@ -1,0 +1,4 @@
+Catatan belajar Git dimulai pada 18/06/2020
+-$ Git add : Untuk menambah catatan ke git
+-$ git commit -m "Catatan" : digunakan untuk menandai perubahan file yang di push ke git
+-$ git init : Untuk mennandai folder yang akan di masukan ke git
