@@ -7,3 +7,4 @@ Catatan belajar Git dimulai pada 18/06/2020
 -$ git diff <nama commit> : Untuk melihat perbandingan perubahan dokumen
 -$ git checkout nama_file : Untuk membatalkan revisi
 -$ git reset nama_file : Untuk membatalkan revisi dokumen yang sudah di staged
+hhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh
