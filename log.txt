@@ -14,3 +14,4 @@ Percabangan di tujukan agar si kontributor dapat leluasa bekerja pada tempatnya 
 
 -$ git branch <nama direktori/branch> : Untuk membuat branch baru
 -$ git checkout <direktori> : Untuk berpindah direktori
+-$ git branch -d <direkotori> : Untuk menghapus cabang
