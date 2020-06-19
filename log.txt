@@ -21,3 +21,6 @@ Seperti server kantor maupun server swasta yang telah di sediakan seperti github
 gitlab, dan lain lain
 
 -$ git remote add <https_clone_repo_github> : Inisialisasi projek ke repositori github
+-$ git remote add <nama_remote> <https_clone_repo_github> : Membuat remote baru
+-$ git remote rename <nama_remote_baru> <nama_remote_lama> : Mngubah nama remote
+-$ git remote remove <nama_remote> : Hapus remote yang ada
