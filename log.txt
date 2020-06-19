@@ -20,4 +20,4 @@ Belajar git tentang remote untuk mempublish pekerjaan kita ke direktori pusat
 Seperti server kantor maupun server swasta yang telah di sediakan seperti github,
 gitlab, dan lain lain
 
--$ git remote add <https_clone_github>
+-$ git remote add <https_clone_repo_github> : Inisialisasi projek ke repositori github
