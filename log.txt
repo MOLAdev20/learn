@@ -24,3 +24,4 @@ gitlab, dan lain lain
 -$ git remote add <nama_remote> <https_clone_repo_github> : Membuat remote baru
 -$ git remote rename <nama_remote_baru> <nama_remote_lama> : Mngubah nama remote
 -$ git remote remove <nama_remote> : Hapus remote yang ada
+-$ git pull <nama_remote> master : Untuk mengambil atau mengupdate repositori lokal kita yang ada di github
