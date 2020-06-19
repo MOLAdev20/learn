@@ -15,3 +15,9 @@ Percabangan di tujukan agar si kontributor dapat leluasa bekerja pada tempatnya 
 -$ git branch <nama direktori/branch> : Untuk membuat branch baru
 -$ git checkout <direktori> : Untuk berpindah direktori
 -$ git branch -d <direkotori> : Untuk menghapus cabang
+
+Belajar git tentang remote untuk mempublish pekerjaan kita ke direktori pusat
+Seperti server kantor maupun server swasta yang telah di sediakan seperti github,
+gitlab, dan lain lain
+
+-$ git remote add <https_clone_github>
